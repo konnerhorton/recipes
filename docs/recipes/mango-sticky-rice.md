@@ -1,20 +1,26 @@
 # Mango sticky rice
+
+_khao niao mamuang_
+
 ## Ingredients
-- 2 cup sticky rice (soaked)
+
+- 1 portion of [sweet sticky rice](sweet-sticky-rice.md)
 - 8 whole mangoes (sliced)
-- 0.25 cup sugar
-- 0.5 tsp salt
-- 2 cup coconut cream (for the rice)
-- 1 cup coconut cream (for the garnish)
+- 1 cup coconut cream
 - 0.25 cup sugar
 - 2 tbsp palm sugar
 - 0.5 tsp salt
+
 ## Preparation
-1. Soak sticky rice in water, at least 2 hours
-2. Steam sticky rice for 20 minutes
-3. While rice is steaming, warm 2 cups coconut cream, dissolve salt and sugar
-4. Put rice in a container, pour sweet milk over to soak
-5. Warm 1 cup cream to melt palm sugar and white sugar (set aside to pour over later)
-6. Serve with sliced mangoes, palm sugar-cream over as desired
+
+1. Make sticky rice.
+2. Over low to medium heat, dissolve sugar and salt in the coconut cream.
+3. Slice mangoes and serve over rice, with sweetened coconut cream poured over the top
+
+## Notes
+
+1. Consider serving with a crunchy garnish like seasame seeds or other roasted nuts.
+
 ## Source
-Simple Thai Food
+
+[Simple Thai Food](https://www.goodreads.com/book/show/18142451-simple-thai-food)

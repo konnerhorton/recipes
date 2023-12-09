@@ -1,5 +1,7 @@
 # Wild mushroom salad
+
 ## Ingredients
+
 - 150 g mushrooms (cut)
 - 1 tbsp stock
 - 1 pinch salt
@@ -13,10 +15,14 @@
 - 2 tbsp long-lead coriander (chopped)
 - 1 tbsp scallions (chopped)
 - 1 tbsp roasted rice (ground)
+
 ## Preparation
-1. Boil mushrooms with salt and sugar (if using)
-2. While cooking, mix all other ingredients in bowl
-3. Mix mushrooms with the other ingredients (except for rice)
-4. Sprinkle with rice just before serving
+
+- Boil mushrooms with salt and sugar (if using)
+- While cooking, mix all other ingredients in bowl
+- Mix mushrooms with the other ingredients (except for rice)
+- Sprinkle with rice just before serving
+
 ## Source
-Thai Food
+
+ [Thai Food](https://www.goodreads.com/book/show/154051.Thai_Food)

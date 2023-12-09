@@ -1,5 +1,7 @@
 # Herb-Baked Cashews
 
+_met mamuang himma-phan op samunphrai_
+
 ## Ingredients
 
 - 1 lb raw cashews
@@ -22,4 +24,4 @@
 
 ## Source
 
-Simple Thai Food
+[Simple Thai Food](https://www.goodreads.com/book/show/18142451-simple-thai-food)

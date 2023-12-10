@@ -1,4 +1,5 @@
 # Coconut Chia Oatmeal
+_We mostly use this when traveling for a quick cooking breakfast or snack_
 
 ## Ingredients
 
@@ -13,7 +14,13 @@
 
 ## Preparation
 
-1. Combine all ingredients together
+1. Combine all ingredients together.
+2. Put in heat resistant container and pour in boiling water.
+3. Let steep until desired tenderness.
+
+## Notes
+- Substitute almonds and raisins for other fruits and nuts as desired.
+- Coconut milk powder can be hard to find. My brick-and-mortar source is a Thai grocery store, but it has some sucralose added, so not ideal.
 
 ## Source
 

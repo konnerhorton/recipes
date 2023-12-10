@@ -1,4 +1,4 @@
-# Wild mushroom salad
+# Wild Mushroom Salad
 
 ## Ingredients
 

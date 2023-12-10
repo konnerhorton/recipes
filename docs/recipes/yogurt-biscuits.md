@@ -1,4 +1,4 @@
-# Buttermilk Biscuits
+# Yogurt Biscuits
 
 ## Ingredients
 

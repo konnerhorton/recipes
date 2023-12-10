@@ -1,4 +1,4 @@
-# Masa corn pancakes
+# Masa Corn Pancakes
 
 ## Ingredients
 

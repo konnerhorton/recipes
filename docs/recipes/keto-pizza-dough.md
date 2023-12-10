@@ -1,4 +1,4 @@
-# Keto pizza dough
+# Keto Pizza Dough
 
 ## Ingredients
 

@@ -1,4 +1,4 @@
-# Chipotle pork for tacos
+# Chipotle Pork for Tacos
 
 ## Ingredients
 

@@ -1,4 +1,4 @@
-# Mango sticky rice
+# Mango Sticky Rice
 
 _khao niao mamuang_
 

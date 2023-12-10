@@ -1,4 +1,4 @@
-# Herbal salmon salad
+# Herbal Salmon Salad
 
 _phla pla salmon_
 

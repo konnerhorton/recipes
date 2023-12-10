@@ -14,8 +14,8 @@ _khao niao mamuang_
 ## Preparation
 
 1. Make sticky rice.
-2. Over low to medium heat, dissolve sugar and salt in the coconut cream.
-3. Slice mangoes and serve over rice, with sweetened coconut cream poured over the top
+1. Over low to medium heat, dissolve sugar and salt in the coconut cream.
+1. Slice mangoes and serve over rice, with sweetened coconut cream poured over the top
 
 ## Notes
 

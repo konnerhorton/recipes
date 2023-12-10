@@ -16,13 +16,13 @@ _phla pla salmon_
 ## Preparation
 
 1. Remove outer portion of lemongrass stalks, slice paper-thin
-2. Halve shallots, then slice lengthwise very thin
-3. Add to bowl: lemongrass, shallots, chiles, lime juice, and fish sauce; set aside
-4. Boil salmon cubes (~1.5 inches) in water (1-2 minutes)
-5. Remove salmon, shake off water, add to bowl of other ingredients
-6. Toss and adjust seasons as necessary
+1. Halve shallots, then slice lengthwise very thin
+1. Add to bowl: lemongrass, shallots, chiles, lime juice, and fish sauce; set aside
+1. Boil salmon cubes (~1.5 inches) in water (1-2 minutes)
+1. Remove salmon, shake off water, add to bowl of other ingredients
+1. Toss and adjust seasons as necessary
    1. Should be: sour, some salty and hot
-7. Sprinkle with mint leaves and serve
+1. Sprinkle with mint leaves and serve
 
 ## Source
 

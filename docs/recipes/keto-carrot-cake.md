@@ -21,10 +21,10 @@
 ## Preparation
 
 1. Preheat oven to 350 F, grease two 8-inch cake pans
-2. Combine dry ingredients
-3. Beat eggs and sweetener together until double in size, add vanilla extract
-4. Fold dry ingredients into eggs/sweetener/vanilla
-5. Split batter between the two pans, bake for 30 to 35 minutes
+1. Combine dry ingredients
+1. Beat eggs and sweetener together until double in size, add vanilla extract
+1. Fold dry ingredients into eggs/sweetener/vanilla
+1. Split batter between the two pans, bake for 30 to 35 minutes
 
 ## Source
 

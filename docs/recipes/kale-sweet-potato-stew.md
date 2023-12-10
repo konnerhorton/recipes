@@ -19,10 +19,10 @@
 ## Preparation
 
 1. Fry ginger and garlic until just before they burn (not too long) in a large pot.
-2. Add coconut milk, water, peanutbutter, turmeric, green chili, and sweet potatoes, and bring to medium heat.
-3. When potatoes are cooked, add paprika, fish sauce, and kale.
-4. When the kale is cooked, add lime juice and cilantro.
-5. Serve with rice and fried eggs.
+1. Add coconut milk, water, peanutbutter, turmeric, green chili, and sweet potatoes, and bring to medium heat.
+1. When potatoes are cooked, add paprika, fish sauce, and kale.
+1. When the kale is cooked, add lime juice and cilantro.
+1. Serve with rice and fried eggs.
 
 ## Notes
 

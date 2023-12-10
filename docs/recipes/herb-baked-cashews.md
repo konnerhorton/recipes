@@ -18,9 +18,9 @@ _met mamuang himma-phan op samunphrai_
 ## Preparation
 
 1. Preheat oven to 400 deg F and line baking sheet with parchment paper or mat (not necessary)
-2. Combine all ingredients in a bowl, mix well to coat cashews
-3. Spread cashews on baking sheet
-4. Bake for 20 - 25 minutes, stir every 5 minutes
+1. Combine all ingredients in a bowl, mix well to coat cashews
+1. Spread cashews on baking sheet
+1. Bake for 20 - 25 minutes, stir every 5 minutes
 
 ## Source
 

@@ -18,9 +18,9 @@
 ## Preparation
 
 1. Preheat oven to 375 deg F.
-2. Beat eggs and mix in all ingredients.
-3. Make cakes (approximately 2.5 inches in diamter, 0.25 to 0.5 inches thick).
-4. Bake on greased cookie sheet for 12 to 20 minutes, until done.
+1. Beat eggs and mix in all ingredients.
+1. Make cakes (approximately 2.5 inches in diamter, 0.25 to 0.5 inches thick).
+1. Bake on greased cookie sheet for 12 to 20 minutes, until done.
 
 ## Source
 

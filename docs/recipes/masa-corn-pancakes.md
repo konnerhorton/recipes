@@ -12,10 +12,10 @@
 ## Preparation
 
 1. Crack eggs in bowl, add water, salt, and sugar
-2. Wisk / beat the mixture well
-3. Add masa and mix well
-4. Let sit for ~30 minutes
-5. Make pancakes!
+1. Wisk / beat the mixture well
+1. Add masa and mix well
+1. Let sit for ~30 minutes
+1. Make pancakes!
 
 ## Source
 

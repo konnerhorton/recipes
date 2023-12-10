@@ -13,11 +13,11 @@
 ## Preparation
 
 1. Preheat oven to 350 F
-2. Mix dry ingredients
-3. Mash in butter (so the batter is a dry crumble)
-4. Add wet ingredients
-5. Drop 1/4 cup portions of biscuits onto lined pan
-6. Bake 12 minutes, let cool once out of the oven
+1. Mix dry ingredients
+1. Mash in butter (so the batter is a dry crumble)
+1. Add wet ingredients
+1. Drop 1/4 cup portions of biscuits onto lined pan
+1. Bake 12 minutes, let cool once out of the oven
 
 ## Source
 

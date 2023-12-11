@@ -1,5 +1,7 @@
 # Yogurt Biscuits
 
+_makes 4 buiscuits_
+
 ## Ingredients
 
 - 0.5 cup yogurt

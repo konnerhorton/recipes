@@ -16,7 +16,7 @@ _kuaitiao kaeng sai kai_
 - 6 oz extra-firm tofu (sliced into sticks)
 - 2 tsp curry powder
 - 8 oz mung bean sprouts
-- 8 oz rice noodes
+- 8 oz rice noodles
 - 0.25 cup preserved radish (finely chopped)
 - 0.25 cup fried shallots
 - 0.25 cup cilantro (chopped)

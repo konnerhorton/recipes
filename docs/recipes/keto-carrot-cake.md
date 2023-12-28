@@ -9,7 +9,7 @@
 - 0.5 tsp nutmeg
 - 0.25 tsp salt
 - 5 ea eggs
-- 1.5 cups sweetner (granulated)
+- 1.5 cups sweetener (granulated)
 - 1 tsp vanilla extract
 - 0.5 cup oil
 - 2 cup carrots (shredded)

@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-- 1.5 cup almong flour
+- 1.5 cup almond flour
 - 0.5 cup psyllium husk
 - 1 tsp baking powder
 - 0.5 tsp salt

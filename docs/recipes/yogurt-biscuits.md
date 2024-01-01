@@ -1,6 +1,6 @@
 # Yogurt Biscuits
 
-_makes 4 biscuits_
+_makes 4 big biscuits_
 
 ## Ingredients
 

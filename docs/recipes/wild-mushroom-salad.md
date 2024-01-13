@@ -18,10 +18,10 @@
 
 ## Preparation
 
-- Boil mushrooms with salt and sugar (if using)
-- While cooking, mix all other ingredients in bowl
-- Mix mushrooms with the other ingredients (except for rice)
-- Sprinkle with rice just before serving
+1. Boil mushrooms with salt and sugar (if using)
+1. While cooking, mix all other ingredients in bowl
+1. Mix mushrooms with the other ingredients (except for rice)
+1. Sprinkle with rice just before serving
 
 ## Source
 

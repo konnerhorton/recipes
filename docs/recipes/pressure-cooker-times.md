@@ -1,3 +1,3 @@
 # Pressure Cooker Times
 
-Kidney beans (soaked) : 10 minutes
+Kidney beans (soaked) : 10 minutes  

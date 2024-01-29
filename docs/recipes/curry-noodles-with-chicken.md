@@ -1,6 +1,7 @@
 # Curry Noodles with Chicken
 
-_kuaitiao kaeng sai kai_
+_kuaitiao kaeng sai kai_  
+ก๋วยเตี๋ยวแกงไส้ ไก่
 
 ## Ingredients
 
@@ -29,16 +30,16 @@ _kuaitiao kaeng sai kai_
 
 ## Preparation
 
-- Cut chicken against the grain into slices (bize size), set aside.
-- Cook oil, coconut cream, and curry pastes in medium/large pot for ~2 min.
-- Add chicken and stir to coat chicken with paste, then cook ~1 min
-- Add sugar, fish sauce, coconut milk, and stock; stir well and cook until chicken is cooked
-- Add tofu (sliced in to 1/4" sticks) and curry powder, mix well and set pot to simmer
-- Heat water to boil, blanch bean sprouts (very quickly)
-- Cook noodles in same water
-- Divide noodles and sprouts into bowls
-- Ladle curry over the noodles, sprinkle with radish, shallots, cilantro, and peanuts.
-- Top with egg half and serve
+1. Cut chicken against the grain into slices (bize size), set aside.
+1. Cook oil, coconut cream, and curry pastes in medium/large pot for ~2 min.
+1. Add chicken and stir to coat chicken with paste, then cook ~1 min
+1. Add sugar, fish sauce, coconut milk, and stock; stir well and cook until chicken is cooked
+1. Add tofu (sliced in to 1/4" sticks) and curry powder, mix well and set pot to simmer
+1. Heat water to boil, blanch bean sprouts (very quickly)
+1. Cook noodles in same water
+1. Divide noodles and sprouts into bowls
+1. Ladle curry over the noodles, sprinkle with radish, shallots, cilantro, and peanuts.
+1. Top with egg half and serve
 
 ## Source
 

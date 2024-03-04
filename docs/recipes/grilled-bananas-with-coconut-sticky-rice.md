@@ -25,9 +25,9 @@ _gluay yang kamin_
 1. Make sticky rice.
 1. Peel bananas and steep in water mixed with lime juice while working on other items.
 1. Combine the sauce ingredients together and simmer until thickened (7 - 10 minutes).
-1. Grill bananas then press between two flat surfaces (this can be a challenge, and often the bnanas will stick and fall apart, so feel free to skip if it is too frustrating, the end product is still good).
+1. Grill bananas then press between two flat surfaces (this can be a challenge, and often the bananas will stick and fall apart, so feel free to skip if it is too frustrating, the end product is still good).
 1. Simmer the bananas in the sauce for approximately 10 more minutes.
-1. Remove bananas a grill a second time to carmelize the outside (this can also be a challenge, so feel free to skip, though it does add nicely to the end result).
+1. Remove bananas and grill a second time to carmelize the outside (this can also be a challenge, so feel free to skip, though it does add nicely to the end result).
 1. Serve bananas over the sticky rice with the sauce drizzled on top.
 
 ## Notes

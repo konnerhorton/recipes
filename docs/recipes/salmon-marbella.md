@@ -1,3 +1,7 @@
+---
+tags:
+    - entres
+---
 # Salmon Marbella
 
 ## Ingredients

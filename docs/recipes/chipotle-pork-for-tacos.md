@@ -1,3 +1,7 @@
+---
+tags:
+    - entres
+---
 # Chipotle Pork for Tacos
 
 ## Ingredients

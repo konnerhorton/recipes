@@ -1,3 +1,7 @@
+---
+tags:
+    - desserts
+---
 # Sweet Sticky Rice
 
 For desserts like [grilled bananas with coconut cream and turmeric](grilled-bananas-with-coconut-sticky-rice.md) or mango sticky rice.

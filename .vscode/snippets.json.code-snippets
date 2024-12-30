@@ -1,0 +1,16 @@
+{
+    "new-recipe": {
+        "scope": "markdown",
+        "prefix": "\\new-recipe",
+        "body": [
+            "---",
+            "tags:",
+            "   - $0",
+            "---",
+            "# $1\n",
+            "## Ingredients\n",
+            "## Preparation\n",
+            "## Source"
+        ]
+    },
+}

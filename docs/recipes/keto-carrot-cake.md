@@ -1,3 +1,7 @@
+---
+tags:
+    - desserts
+---
 # Keto Carrot Cake
 
 ## Ingredients

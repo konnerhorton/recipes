@@ -1,3 +1,7 @@
+---
+tags:
+    - entres 
+---
 # Curry Noodles with Chicken
 
 _kuaitiao kaeng sai kai_  

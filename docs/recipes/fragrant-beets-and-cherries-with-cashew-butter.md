@@ -1,3 +1,7 @@
+---
+tags:
+    - sides
+---
 # Fragrant Beets and Cherries with Cashew Butter
 
 ## Ingredients

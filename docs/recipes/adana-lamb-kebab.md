@@ -1,3 +1,8 @@
+---
+tags:
+    - entres
+---
+
 # Adana Lamb Kebab
 
 ## Ingredients

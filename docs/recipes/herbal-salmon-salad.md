@@ -1,3 +1,7 @@
+---
+tags:
+    - entres
+---
 # Herbal Salmon Salad
 
 _phla pla salmon_

@@ -1,3 +1,7 @@
+---
+tags:
+    - sides
+---
 # Herb-Baked Cashews
 
 _met mamuang himma-phan op samunphrai_

@@ -1,3 +1,8 @@
+---
+tags:
+    - sides
+---
+
 # Buttery Roasted Parsnips with Mole Crunch
 
 ## Ingredients

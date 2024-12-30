@@ -1,3 +1,7 @@
+---
+tags:
+    - entres
+---
 # Pork Vindaloo
 
 _yogurt is a good addition to this, it can be spicy_

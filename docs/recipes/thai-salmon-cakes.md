@@ -1,3 +1,7 @@
+---
+tags:
+    - entres 
+---
 # Thai Salmon Cakes
 
 ## Ingredients

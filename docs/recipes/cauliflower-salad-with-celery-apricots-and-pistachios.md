@@ -1,3 +1,8 @@
+---
+tags:
+    - sides
+---
+
 # Cauliflower Salad with Celery, Dried Apricots, and Pistachios
 
 ## Ingredients

@@ -1,3 +1,7 @@
+---
+tags:
+    - sides
+---
 # Keto Bread Loaf
 
 ## Ingredients

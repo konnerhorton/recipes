@@ -1,3 +1,7 @@
+---
+tags:
+    - entres
+---
 # Laap
 
 _&#x0E25;&#x0E32;&#x0E1A;_

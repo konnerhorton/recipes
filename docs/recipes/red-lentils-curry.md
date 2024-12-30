@@ -1,3 +1,7 @@
+---
+tags:
+    - entres 
+---
 # Red Lentils Curry
 
 _masoor dal_

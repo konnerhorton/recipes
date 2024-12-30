@@ -1,3 +1,7 @@
+---
+tags:
+    - desserts
+---
 # Mango Sticky Rice
 
 _khao niao mamuang_

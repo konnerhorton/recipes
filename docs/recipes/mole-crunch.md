@@ -1,3 +1,7 @@
+---
+tags:
+    - sides
+---
 # Mole Crunch
 
 ## Ingredients

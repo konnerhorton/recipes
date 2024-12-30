@@ -1,4 +1,9 @@
+---
+tags:
+    - breakfast 
+---
 # Coconut Chia Oatmeal
+
 _We mostly use this when traveling for a quick cooking breakfast or snack_
 
 ## Ingredients

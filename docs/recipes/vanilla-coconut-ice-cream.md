@@ -1,3 +1,7 @@
+---
+tags:
+    - desserts
+---
 # Vanilla Coconut Ice Cream
 
 ## Ingredients

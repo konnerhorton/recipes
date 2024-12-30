@@ -1,3 +1,7 @@
+---
+tags:
+    - sides
+---
 # Tabbouleh Salad
 
 ## Ingredients

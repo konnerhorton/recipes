@@ -1,3 +1,7 @@
+---
+tags:
+    - sides
+---
 # Sumac Vinaigrette
 
 ## Ingredients

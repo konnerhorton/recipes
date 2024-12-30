@@ -1,3 +1,7 @@
+---
+tags:
+    - breakfast
+---
 # Masa Corn Pancakes
 
 ## Ingredients

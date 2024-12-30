@@ -1,3 +1,7 @@
+---
+tags:
+    - entres 
+---
 # Kale Sweet Potato Stew
 
 ## Ingredients

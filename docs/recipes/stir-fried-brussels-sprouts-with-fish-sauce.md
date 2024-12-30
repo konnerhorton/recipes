@@ -1,3 +1,7 @@
+---
+tags:
+    - sides
+---
 # Stir-Fried Brussels Sprouts with Fish Sauce and Lime
 
 ## Ingredients

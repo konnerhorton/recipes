@@ -1,7 +1,13 @@
+---
+tags:
+    - sides
+---
 # Tomato Basil Soup
+
 _with carrots, makes 48 oz, requires a pressure cooker_
 
 ## Ingredients
+
 - 2 pounds roma tomatoes
 - 1 ea onion, quartered
 - 1 cup carrots, diced

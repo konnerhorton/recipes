@@ -1,3 +1,7 @@
+---
+tags:
+    - sides 
+---
 # Wild Mushroom Salad
 
 ## Ingredients

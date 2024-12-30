@@ -1,3 +1,7 @@
+---
+tags:
+    - sides
+---
 # Wild Spring Mushrooms with Asparagus
 
 ## Ingredients

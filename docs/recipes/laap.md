@@ -32,7 +32,7 @@ The book includes some additional recipes with organ and / raw meat that might b
 
 1. If using non-minced meat, chop it into small chunks.
 2. Saute the meet in a pan (use oil if needed).
-3. Transfer the meet with juices / oil to a large bowl, let cook until room temperature.
+3. Transfer the meet with juices / oil to a large bowl, let cool until room temperature.
 4. Mix non-herb ingredients in thoroughly.
 5. Once mixed, add the herbs and mix again
 

@@ -3,6 +3,8 @@ tags:
    - entres
 ---
 # Dry Fried Green Beans
+Ganbian Sijidou
+干煸四季豆
 
 ## Ingredients
 

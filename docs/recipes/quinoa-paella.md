@@ -2,7 +2,7 @@
 tags:
    - entres
 ---
-# Mexican Quinoa
+# Quinoa Paella
 
 ## Ingredients
 

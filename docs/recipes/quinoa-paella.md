@@ -7,7 +7,7 @@ tags:
 ## Ingredients
 
 - 1 cup quinoa (uncooked)
-- 8 oz can artichokes
+- 14 oz can artichokes
 - 14 oz can diced tomatoes
 - 2 ea zucchini
 - 1 ea onion

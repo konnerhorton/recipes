@@ -1,6 +1,6 @@
 ---
 tags:
-    - dessert
+    - desserts
 ---
 
 # Cashew Sweet Cream

@@ -13,14 +13,16 @@ tags:
 - 0.25 cup fish sauce
 - 1 tbsp garlic (powder)
 - 1 tbsp cumin (powder)
-- 1 tbsp oregano (dry)
+- 2 tbsp oregano (dry)
+- 1 tsp bay leaves (powder)
+- 1 tsp cacao (powder)
 
 ## Preparation
 
 1. Fry sliced onions in instant pot
-1. If port is not in chunks (3 inches) cut it into chunks
+1. If pork is not in chunks (~3 inches) cut it into chunks
 1. Add pork and all other ingredients to instant pot
-1. Cool on high pressure for 40 minutes, allow natural release
+1. Cook on high pressure for 45 minutes, allow natural release
 
 ## Source
 

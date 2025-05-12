@@ -1,7 +1,6 @@
 ---
 tags:
     - entres
-    - soup
 ---
 
 # Arachuvitta Sambar
@@ -39,9 +38,10 @@ tags:
 3. Saute mustard seeds, curry leaves, and green chilies in oil until fragrant and mustard sputters.
 4. Add onion and saute until soft.
 5. Add tomatoes and cook well.
-6. Add toor dhal (cooked previously), tamarind extract, 0.5 tsp turmeric powder, salt, and additional water to preference, cook for a few minutes.
-7. Add masala paste, mix well, and let cook.
-8. Add 0.25 assafoetida and jaggery and mix well, then garnish with chopped cilantro and and serve.
+6. Add pumpkin (or other vegetables as desired) and cook until nearly done.
+7. Add toor dhal (cooked previously), tamarind extract, 0.5 tsp turmeric powder, salt, and additional water to preference, cook for a few minutes.
+8. Add masala paste, mix well, and let cook.
+9. Add 0.25 assafoetida and jaggery and mix well, then garnish with chopped cilantro and and serve.
 
 ## Source
 

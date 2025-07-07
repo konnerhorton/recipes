@@ -22,13 +22,13 @@ tags:
 ## Notes
 
 Consider spicing the butter with things like:
-- Salt
-- Pepper
-- Garlic
-- Onion
-- Sage
-- Thyme
-- Oregano
+- Salt  
+- Pepper  
+- Garlic  
+- Onion  
+- Sage  
+- Thyme  
+- Oregano  
 
 ## Source
 

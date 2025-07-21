@@ -24,24 +24,22 @@ tags:
 
 ### Masala
 
-- 2 tbsp bengal gram dhal
+- 2 tbsp chana dhal
 - 2 tbsp coriander seeds
 - 0.25 tsp fenugreek seeds
 - 8 ea red chillies
 - 2 tbsp coconut grated
-- 1 tbsp oil
+- 1 tbsp ghee
 
 ## Preparation
 
-1. Cook the toor dhal in a pressure cooker with 0.5 tsp turmeric powder and 0.25 tsp assafoetida.
-2. Oil roast the masala ingredients, side aside to cool. Once cooled, grind together into a paste.
-3. Saute mustard seeds, curry leaves, and green chilies in oil until fragrant and mustard sputters.
+1. Oil roast the masala ingredients, side aside to cool. Once cooled, grind/blend together into a paste.
+2. Saute mustard seeds, curry leaves, and green chilies in oil until fragrant and mustard sputters.
+3. Add assafoetida and fry for ~10 seconds.
 4. Add onion and saute until soft.
-5. Add tomatoes and cook well.
-6. Add pumpkin (or other vegetables as desired) and cook until nearly done.
-7. Add toor dhal (cooked previously), tamarind extract, 0.5 tsp turmeric powder, salt, and additional water to preference, cook for a few minutes.
-8. Add masala paste, mix well, and let cook.
-9. Add 0.25 assafoetida and jaggery and mix well, then garnish with chopped cilantro and and serve.
+5. Add masala paste, tomatoes, pumpkin, toor dhal, turmeric, salt, and additional water to preference (~1 liter).
+6. Cook on high in a pressure cooker for 8 minutes and allow a natural (slow) release.
+7. Once cooked, add jaggery (if using) and mix well, then garnish with chopped cilantro and and serve.
 
 ## Source
 

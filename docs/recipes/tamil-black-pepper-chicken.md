@@ -41,7 +41,7 @@ _Chicken Kozhumbu_
 ## Preparation
 
 1. Cut chicken into bit sized pieces.
-2. Mix marinade ingredients in bowl, then mix the chicken into that. Let marinage for 30 minutes.
+2. Mix marinade ingredients in bowl, then mix the chicken into that. Let marinade for 30 minutes.
 3. Toast spice mix ingredients in a skillet on the stove (if any of the spiced are not whole, put them in at the end so they do not burn).
 4. Let the toasted spices cool, then grind in a spice grinder or mortar and pestle.
 5. Heat oil in pan, add curry leaves, cinnamon, onions, and some salt. Saute until the unions start to brown.

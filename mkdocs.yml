@@ -1,11 +1,10 @@
 site_name: Recipes
 site_url: https://konnerhorton.github.io/recipes/
+edit_uri: docs/recipes/
 theme:
   name: material
   pallette:
     scheme: slate
-    # primary: deep purple
-    # accent: indigo
   logo: img/android-chrome-512x512.png
   favicon: img/favicon.ico
 plugins:

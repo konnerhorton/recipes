@@ -5,11 +5,29 @@ Spec source: https://github.com/cooklang/spec
 
 ---
 
+## Key Rules for Generation
+
+> **Read these before writing any `.cook` file.**
+
+- **No ingredients list.** Do NOT write a separate ingredients section. Ingredients are defined inline within steps using `@` syntax. Parsers extract and aggregate them automatically. Writing a list separately is not valid Cooklang and will be ignored or cause errors.
+- **No step numbers.** Do NOT prefix steps with numbers like `1.`, `2.`, `Step 1:`, etc. Steps are separated by blank lines and numbered automatically by apps and parsers. Adding numbers will include them as literal text in the step.
+- **No markdown formatting.** Do not use `**bold**`, `*italic*`, `#` headers, `-` bullet lists, or other markdown inside step text. The file is plain text with Cooklang-specific syntax only (`@`, `#`, `~`, `--`, `>`).
+- **Ingredient names are case-sensitive.** `@Butter` and `@butter` are treated as different ingredients. Be consistent with casing throughout a file so quantities aggregate correctly.
+- **Repeated ingredients are aggregated.** If `@flour{200%g}` appears in step 1 and `@flour{100%g}` appears in step 3, apps will combine them into 300g on the shopping/ingredient list. Use consistent names intentionally.
+- **Mark each ingredient with `@` only once — on its first mention, with the full quantity.** Subsequent mentions of the same ingredient should be written as plain prose (no `@`). Writing `@bacon{}` after an earlier `@bacon{8%slices}` causes the ingredient list to show "bacon" twice, because each `@` mark is a new ingredient entry and an empty `{}` has no quantity to aggregate. Example:
+  ```
+  Cook @bacon{8%slices}(chopped) until crispy.
+
+  Add the bacon to a #large bowl{} with @red onion{1%cup}(diced).
+  ```
+  Note "the bacon" in the second step is plain text, not `@bacon{}`. Only re-use `@` if you genuinely have a new quantity to add to the total (e.g., oil split across steps: `@olive oil{20%g}` early, `@olive oil{27%g}` later — both contribute to the aggregated total).
+- **One recipe per file.** Each `.cook` file is a single recipe. Use cross-recipe references (`@./path/Recipe{}`) to compose multi-part meals.
+
+---
+
 ## File Structure
 
-A `.cook` file is a plain-text recipe. 
-Each file represents one recipe.
-The file may optionally begin with a YAML front matter block for metadata, followed by recipe steps written as natural-language paragraphs.
+A `.cook` file is a plain-text recipe. Each file represents one recipe. The file may optionally begin with a YAML front matter block for metadata, followed by recipe steps written as natural-language paragraphs.
 
 ```
 ---
@@ -102,12 +120,22 @@ Timers do **not** scale with servings.
 
 ## Steps
 
-Each paragraph is a step. Separate steps with a blank line.
+Each paragraph is a step. Separate steps with a blank line. A step can span multiple lines — a line break within a paragraph is still the same step.
+
+**Do not number steps.** Apps handle numbering automatically. Do not use `1.`, `Step 2:`, or any similar prefix.
 
 ```
 Bring a #pot of water to a boil.
 
 Add @pasta{200%g} and cook for ~{10%minutes}.
+```
+
+A step may contain multiple sentences. Only a blank line starts a new step:
+
+```
+Heat a #pan{} over medium heat. Add @olive oil{2%tbsp} and swirl to coat.
+
+Add @garlic{3%cloves}(minced) and cook until fragrant.
 ```
 
 ---

@@ -1,0 +1,37 @@
+---
+{%- if metadata.tags %}
+tags:
+{%- for tag in metadata.tags %}
+    - {{ tag }}
+{%- endfor %}
+{%- endif %}
+---
+
+# {{ metadata.title }}
+
+## Ingredients
+
+{%- for ing in get_ingredient_list(ingredients) %}
+{%- set qty = ing.quantities | string %}
+- {% if qty %}{{ qty }} {% endif %}{{ ing.name }}{% if ing.note %} ({{ ing.note }}){% endif %}
+{%- endfor %}
+
+## Preparation
+{% for section in sections %}
+{%- if section.name %}
+### {{ section.name }}
+{% endif %}
+{%- for content in section %}
+{%- if content.number %}
+{%- set step_text %}{% for item in content %}{{ item }}{% endfor %}{% endset %}
+1. {{ step_text | trim }}
+{%- else %}
+{{ content | string | trim }}
+{% endif %}
+{%- endfor %}
+{%- endfor %}
+{% if metadata.source %}
+## Source
+
+[{{ metadata.source.name }}]({{ metadata.source.url }})
+{%- endif %}

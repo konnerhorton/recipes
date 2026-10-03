@@ -25,5 +25,11 @@ jobs:
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material 
+      - run: pip install mkdocs-material
+      - name: Install cookcli
+        env:
+          COOKCLI_VERSION: 0.28.1
+        run: |
+          curl -sSL "https://github.com/cooklang/cookcli/releases/download/v${COOKCLI_VERSION}/cook-x86_64-unknown-linux-gnu.tar.gz" | tar xz -C /usr/local/bin cook
+      - run: python scripts/build_recipes.py
       - run: mkdocs gh-deploy --force

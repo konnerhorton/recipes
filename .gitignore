@@ -1,3 +1,4 @@
+TODO.md
 # mkdocs
 site/
 
@@ -16,3 +17,5 @@ __pycache__/
 
 # mkdocs documentation
 /site
+# Generated from cook/*.cook by scripts/build_recipes.py
+docs/recipes/

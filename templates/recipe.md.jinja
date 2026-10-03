@@ -1,0 +1,67 @@
+---
+{%- if metadata.tags %}
+tags:
+{%- for tag in metadata.tags %}
+    - {{ tag }}
+{%- endfor %}
+{%- endif %}
+---
+
+# {{ metadata.title }}
+{% if metadata.introduction %}
+{{ metadata.introduction }}
+{% endif %}
+{%- if metadata.servings %}
+Serves {{ metadata.servings }}
+{% endif %}
+{%- if metadata.makes %}
+Makes {{ metadata.makes }}
+{% endif %}
+## Ingredients
+{# Recipe references are listed as links; aggregating them would expand the
+   sub-recipe's ingredients (and fail to scale without a `yield`). #}
+{%- for ing in ingredients | selectattr("reference") %}
+{%- set qty = ing.quantity | string %}
+- {% if qty %}{{ qty }} {% endif %}[{{ ing.name | replace("-", " ") | title }}]({{ ing.name }}.md)
+{%- endfor %}
+{%- for ing in get_ingredient_list(ingredients | rejectattr("reference") | list) %}
+{%- set qty = ing.quantities | string %}
+{%- set notes = ingredients | selectattr("name", "equalto", ing.name) | map(attribute="note") | select | unique | list %}
+- {% if qty %}{{ qty }} {% endif %}{{ ing.name }}{% if notes %} ({{ notes | join("; ") }}){% endif %}
+{%- endfor %}
+
+## Preparation
+{% for section in sections %}
+{%- if section.name %}
+### {{ section.name }}
+{% endif %}
+{#- Steps and notes expose no type attribute; a step stringifies as "N. text"
+   with N restarting per section, so match on the expected next number. #}
+{%- set ns = namespace(n=1) %}
+{%- for content in section %}
+{%- set prefix = ns.n ~ ". " %}
+{%- if (content | string)[:prefix | length] == prefix %}
+{%- set ns.n = ns.n + 1 %}
+1. {{ (content | string)[prefix | length:] | trim }}
+{%- else %}
+> {{ content | string | trim }}
+{% endif %}
+{%- endfor %}
+{%- endfor %}
+{% if metadata.source %}
+## Source
+{% set src = metadata.source %}
+{%- if src is mapping %}
+{%- if src.text %}
+{{ src.text }}
+{%- elif src.url %}
+[{{ src.name or src.url }}]({{ src.url }})
+{%- else %}
+{{ src.name }}
+{%- endif %}
+{%- elif (src | string)[:4] == "http" %}
+<{{ src }}>
+{%- else %}
+{{ src }}
+{%- endif %}
+{%- endif %}

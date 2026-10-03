@@ -2,6 +2,10 @@ TODO.md
 # mkdocs
 site/
 
+
+# aider
+.aider*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 

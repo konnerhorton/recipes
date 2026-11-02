@@ -18,16 +18,30 @@ Serves {{ metadata.servings }}
 Makes {{ metadata.makes }}
 {% endif %}
 ## Ingredients
-{# Recipe references are listed as links; aggregating them would expand the
-   sub-recipe's ingredients (and fail to scale without a `yield`). #}
-{%- for ing in ingredients | selectattr("reference") %}
-{%- set qty = ing.quantity | string %}
-- {% if qty %}{{ qty }} {% endif %}[{{ ing.name | replace("-", " ") | title }}]({{ ing.name }}.md)
+{# Ingredients don't expose cooklang's optional modifier (`@?name{}`), so
+   build_recipes.py passes their indices in through the datastore. Optional
+   items are listed after the required ones and never summed with them. #}
+{%- set opt_idx = db("optional.indices") if datastore else [] %}
+{%- set ns_ing = namespace(required=[], optional=[]) %}
+{%- for ing in ingredients %}
+{%- if loop.index0 in opt_idx %}
+{%- set ns_ing.optional = ns_ing.optional + [ing] %}
+{%- else %}
+{%- set ns_ing.required = ns_ing.required + [ing] %}
+{%- endif %}
 {%- endfor %}
-{%- for ing in get_ingredient_list(ingredients | rejectattr("reference") | list) %}
+{%- for group, is_opt in [(ns_ing.required, false), (ns_ing.optional, true)] %}
+{#- Recipe references are listed as links; aggregating them would expand the
+   sub-recipe's ingredients (and fail to scale without a `yield`). #}
+{%- for ing in group | selectattr("reference") %}
+{%- set qty = ing.quantity | string %}
+- {% if qty %}{{ qty }} {% endif %}[{{ ing.name | replace("-", " ") | title }}]({{ ing.name }}.md){% if is_opt %} (optional){% endif %}
+{%- endfor %}
+{%- for ing in get_ingredient_list(group | rejectattr("reference") | list) %}
 {%- set qty = ing.quantities | string %}
-{%- set notes = ingredients | selectattr("name", "equalto", ing.name) | map(attribute="note") | select | unique | list %}
+{%- set notes = ((["optional"] if is_opt else []) + (group | selectattr("name", "equalto", ing.name) | map(attribute="note") | select | list)) | unique | list %}
 - {% if qty %}{{ qty }} {% endif %}{{ ing.name }}{% if notes %} ({{ notes | join("; ") }}){% endif %}
+{%- endfor %}
 {%- endfor %}
 
 ## Preparation

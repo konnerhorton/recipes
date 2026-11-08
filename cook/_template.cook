@@ -1,0 +1,32 @@
+---
+title: Recipe Name
+# introduction: short blurb shown under the title
+# servings: 4          # number only; shown as "Serves 4"
+# yield: 800%grams     # how much it makes (number%unit); lets other recipes ask for e.g. @./this{400%grams}
+tags:
+  - entres  # one of: entres, sides, desserts, breakfast, condiment, ingredient
+source:
+  name: Site Name
+  url: https://www.any-site.com/
+---
+
+-- Comments start with -- or can be [- inline -].
+-- Blank line = new step.
+--
+-- @name{qty%unit}(note)   ingredient, e.g. @chicken{2%lbs}(cut into pieces)
+-- @salt{}                 ingredient with no quantity
+-- @?cocoa powder{1%tbsp}  optional ingredient (listed separately)
+-- @./pie-dough{400%grams} link to another recipe; a unit needs a matching yield in that recipe
+-- #baking sheet{}         cookware
+-- ~{10%minutes}           timer
+-- = Section Name          starts a section (### heading)
+-- > note text             a note rendered as a quote.
+--
+-- Use @ only on the first mention; later mentions are plain text.
+-- Same name used with @ twice is summed, so keep names/case consistent.
+
+= Section Name
+
+Mix @ingredient{1%cup}(chopped) in a #large bowl{} for ~{5%minutes}.
+
+> Optional note about the step above.

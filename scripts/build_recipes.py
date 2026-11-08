@@ -56,7 +56,8 @@ def render(recipe: Path) -> str:
 
 def main() -> int:
     OUT_DIR.mkdir(parents=True, exist_ok=True)
-    recipes = sorted(COOK_DIR.glob("*.cook"))
+    # Files starting with "_" (e.g. _template.cook) are not recipes.
+    recipes = sorted(r for r in COOK_DIR.glob("*.cook") if not r.name.startswith("_"))
     failures = []
     for recipe in recipes:
         try:

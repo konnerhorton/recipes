@@ -20,3 +20,7 @@ Recipes are written in [Cooklang](https://cooklang.org/) under `cook/` (see `COO
 4. Preview: `uv run mkdocs serve`
 
 CI runs steps 3 and 4 (as `mkdocs gh-deploy`) on every push to `main`.
+
+## Shopping list
+
+`uv run python scripts/shopping_list.py laap cilantro-lime-rice:2` prints a combined shopping list for the given recipes, one item per line, and copies it to the clipboard. Paste it into a Google Keep checklist note and each line becomes a checkbox. `:N` scales a recipe. Other `cook shopping-list` options, such as `--extra "paper towels"` and `--include-optional`, are passed through.
